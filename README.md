@@ -10,7 +10,7 @@
 
 
 
-## 🔧: Skills
+## :muscle: Skills
 ### Tools & Languages
 <img src="https://img.shields.io/badge/Java-white?/style=flat-square&logo=jameson&logoColor=004027"/> <img src="https://img.shields.io/badge/spring Boot-white?/style=flat-square&logo=springboot&logoColor=6DB33F"/>    <img src="https://img.shields.io/badge/mysql-white?style=flat-square&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/oracle-white?style=flat-square&logo=oracle&logoColor=F80000"/> 
 
