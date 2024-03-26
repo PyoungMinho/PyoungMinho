@@ -28,11 +28,9 @@
 
 <details>
 <summary>
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Fire.png" alt="Eyes" width="2%" /> 앞으로 배우고 싶은 기술
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Writing Hand.png" alt="Eyes" width="2%" /> 앞으로 배우고 싶은 기술
 </summary>
-   <img src="https://img.shields.io/badge/python-white?style=flat-square&logo=python&logoColor=3776AB"/>
-   <img src="https://img.shields.io/badge/typescript-white?style=flat-square&logo=typescript&logoColor=3178C6"/>
-   <img src="https://img.shields.io/badge/react-white?style=flat-square&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/kubernetes-white?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
 </details>
 
 
