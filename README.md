@@ -1,13 +1,17 @@
-### 
- 👋 Hi there! I'm a **backend developer** and I'm striving to become a **full-stack developer** by studying and improving every day.  
+###  👋 Hi there!
+ 
+ I'm a **backend developer** and I'm striving to become a **full-stack developer** by studying and improving every day.  
  I love soccer and gym.  
  I'm living a happy life every day.
+ 
+---
 
-### Mypage
+### 📃 Mypage
 <a href="https://www.notion.so/500155f3f85d447ab25db15b5c2ba89c" target="_blank"><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=000000"/></a>
+<a href="https://blog.naver.com/pmmh9395" target="_blank"><img src="https://img.shields.io/badge/vlog-white?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 
-
-### SKills
+---
+### 🔧: SKills
 <img src="https://img.shields.io/badge/Java-white?/style=flat-square&logo=jameson&logoColor=004027"/> <img src="https://img.shields.io/badge/spring Boot-white?/style=flat-square&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/docker-white?/style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/prometheus-white?style=flat-square&logo=prometheus&logoColor=E6522C"/> <img src="https://img.shields.io/badge/Grafana-white?style=flat-square&logo=grafana&logoColor=F46800"/> <img src="https://img.shields.io/badge/typescript-white?style=flat-square&logo=typescript&logoColor=3178C6"/>
 
 
