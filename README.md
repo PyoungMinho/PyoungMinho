@@ -8,7 +8,7 @@
 
 
 ### SKills
-<img src="https://img.shields.io/badge/Java-white?/style=flat-square&logo=jameson&logoColor=004027"/> <img src="https://img.shields.io/badge/spring Boot-white?/style=flat-square&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/docker-white?/style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/prometheus-white?style=flat-square&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/Java-white?/style=flat-square&logo=jameson&logoColor=004027"/> <img src="https://img.shields.io/badge/spring Boot-white?/style=flat-square&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/docker-white?/style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/prometheus-white?style=flat-square&logo=prometheus&logoColor=E6522C"/> <img src="https://img.shields.io/badge/Grafana-white?style=flat-square&logo=grafana&logoColor=F46800"/> <img src="https://img.shields.io/badge/typescript-white?style=flat-square&logo=typescript&logoColor=3178C6"/>
 
 
 
