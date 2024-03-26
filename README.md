@@ -2,11 +2,12 @@
  I'm a **backend developer** and I'm striving to become a **full-stack developer** by studying and improving every day.  
  I love soccer and gym.  
  I'm living a happy life every day.
- 
+
 
 ## 📃 Mypage
 <a href="https://www.notion.so/500155f3f85d447ab25db15b5c2ba89c" target="_blank"><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 <a href="https://blog.naver.com/pmmh9395" target="_blank"><img src="https://img.shields.io/badge/vlog-white?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
+
 
 
 ## 🔧: Skills
@@ -24,6 +25,15 @@
    <img src="https://img.shields.io/badge/react-white?style=flat-square&logo=react&logoColor=61DAFB"/>
 </details>
 
+
+<details>
+<summary>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Fire.png" alt="Eyes" width="2%" /> 앞으로 배우고 싶은 기술
+</summary>
+   <img src="https://img.shields.io/badge/python-white?style=flat-square&logo=python&logoColor=3776AB"/>
+   <img src="https://img.shields.io/badge/typescript-white?style=flat-square&logo=typescript&logoColor=3178C6"/>
+   <img src="https://img.shields.io/badge/react-white?style=flat-square&logo=react&logoColor=61DAFB"/>
+</details>
 
 
 
