@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&size=50&pause=1000&color=000000A9&center=true&vCenter=true&random=false&width=1250&height=100&lines=Hi+there%2C+I'm+Minho.)](https://git.io/typing-svg)
+
 ##  👋 Hi there!
  I'm a **backend developer** and I'm striving to become a **full-stack developer** by studying and improving every day.  
  I love soccer and gym.  
