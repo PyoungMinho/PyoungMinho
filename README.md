@@ -2,8 +2,8 @@
 
 ##  👋 Hi there!
  I'm a **backend developer** and I'm striving to become a **full-stack developer** by studying and improving every day.  
- I love soccer and gym.  
- I'm living a happy life every day.
+ I love soccer ⚽ and gym 💪.  
+ I try to live a positive and happy life every day. thank you for comming my page.
 
 
 ## 📃 Mypage
