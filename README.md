@@ -2,7 +2,7 @@
     
 ##  👋 Hi There!  
  I'm a **backend developer** and I'm striving to become a **full-stack developer** by studying and improving every day.  
- I love soccer ⚽ and gym 💪 and travel. 
+ I love soccer ⚽ and gym 💪 and travel.<br> 
  I try to live a positive and happy life every day. thank you for comming my page.  
  Let's live with a positive mind!!! don't give up keep going!!
 ## 📃 Mypage 
