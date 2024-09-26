@@ -19,7 +19,7 @@
 
 <details>
 <summary>
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 기술
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 기술 
 </summary>
    <img src="https://img.shields.io/badge/nodeJs-white?style=flat-square&logo=nodeJs&logoColor=3776AB"/>
    <img src="https://img.shields.io/badge/typescript-white?style=flat-square&logo=typescript&logoColor=3178C6"/>
