@@ -5,6 +5,7 @@
  I love soccer ⚽ and gym 💪 and travel.<br>
  I try to live a positive and happy life every day. thank you for comming my page.          
  Let's live with a positive mind!!! don't give up keep going!!!      
+ Life is so happy. 
 ## 📃 Mypage 
 <a href="https://www.notion.so/500155f3f85d447ab25db15b5c2ba89c" target="_blank"><img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=000000"/></a> 
 <a href="https://blog.naver.com/pmmh9395" target="_blank"><img src="https://img.shields.io/badge/vlog-white?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
