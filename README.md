@@ -10,6 +10,13 @@
 <a href="https://blog.naver.com/pmmh9395" target="_blank"><img src="https://img.shields.io/badge/vlog-white?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 <a href="https://velog.io/@pmmh9395/posts" target="_blank"><img src="https://img.shields.io/badge/vlog-white?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/PyoungMinho"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## :muscle: Skills
 ### Tools & Languages
