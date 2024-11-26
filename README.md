@@ -19,7 +19,9 @@
 <a href="https://blog.naver.com/pmmh9395" target="_blank"><img src="https://img.shields.io/badge/vlog-white?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 <a href="https://velog.io/@pmmh9395/posts" target="_blank"><img src="https://img.shields.io/badge/vlog-white?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/자주까먹어서적어두)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/자주까먹어서적어두.log)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/PyoungMinho)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Minho)
 
 ## :muscle: Skills
 ### Tools & Languages
